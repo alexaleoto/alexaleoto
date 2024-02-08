@@ -1,14 +1,12 @@
 👋 Hi, I’m @alexaleoto
 
-A Front-end Engineer and Information Security Analyst
+A Fullstack Software Engineer 
 
 With 4+ Certifications pinned below
 
 I’m currently seeking a company to grow my skills!
 
 How to reach me .. https://www.linkedin.com/in/alexaleoto/ 
-
-Hello World!
  
 <!---
 alexaleoto/alexaleoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
