@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexa Leoto</h1>
+<h1 align="center">Hi 👋🏽, I'm Alexa Leoto</h1>
 <h3 align="center">I’m currently a Full-Stack Developer based in New York.</h3>
 
 - 🌱 I’m currently learning **learning Three.js for creating interactive 3D portfolios.**
